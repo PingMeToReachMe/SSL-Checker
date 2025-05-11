@@ -3,6 +3,7 @@
 ## Installation Instructions 
 
 - Clone the Repository
+  
 Run the following command in terminal to download:
 
 git clone https://github.com/PingMeToReachMe/SSL-Checker.git
